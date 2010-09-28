@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="N:/Source/AndroidDev/lib/Instinct/ant-1.7.1.jar"/>
+	<classpathentry kind="lib" path="N:/Source/AndroidDev/lib/Instinct/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="N:/Source/AndroidDev/lib/Instinct/functionaljava-2.14.jar"/>
+	<classpathentry kind="lib" path="N:/Source/AndroidDev/lib/Instinct/hamcrest-all-1.1.jar"/>
+	<classpathentry kind="lib" path="N:/Source/AndroidDev/lib/Instinct/instinct-core-0.2.0.jar"/>
+	<classpathentry kind="lib" path="N:/Source/AndroidDev/lib/Instinct/jmock-2.5.0.jar"/>
+	<classpathentry kind="lib" path="N:/Source/AndroidDev/lib/Instinct/jmock-legacy-2.5.0.jar"/>
+	<classpathentry kind="lib" path="N:/Source/AndroidDev/lib/Instinct/junit-dep-4.4.jar"/>
+	<classpathentry kind="lib" path="N:/Source/AndroidDev/lib/Instinct/objenesis-1.1.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/AndroidDemo.Core"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
